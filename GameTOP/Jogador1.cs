@@ -16,7 +16,7 @@ namespace GameTOP
 
         public string passe()
         {
-             return $"Lucas esta correndo";
+             return $"Lucas está correndo";
         }
     }
 }
