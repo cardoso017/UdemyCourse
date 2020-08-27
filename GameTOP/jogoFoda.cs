@@ -1,5 +1,6 @@
 using System;
 using GameTOP;
+using GameTOP.Interface;
 
 class jogoFoda{
         private readonly IJogador _jogador;
